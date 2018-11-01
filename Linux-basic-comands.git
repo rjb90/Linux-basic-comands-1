@@ -1,0 +1,757 @@
+ls
+mkdir Repos
+cd Repos
+history
+cat ../.history
+git clone https://github.com/wireservice/csvkit.git
+cd csvkit
+ls
+git log
+cd ..
+cd
+psql -l
+psql
+psql postgres
+pyspark
+R
+rstudio
+sudo chmod -R a+rwx /media/sf_vb_shared
+sudo cp -r /media/sf_vb_shared/Data .
+ls -hl
+sudo chown -R dsc:dsc Data
+du -hs Data
+ls Data
+find DA
+find Data
+df -h
+blueman--ma
+blueman-manager
+gsettings get org.blueman.transfer shared-path\
+\
+
+gsettings get org.blueman\
+\
+
+blueman-services
+cd /usr/local/spark
+cd ..
+ls
+ls /home/dsc/Downloads
+ls
+ll spark
+cd
+cd Downloads
+ls
+ll
+tar zxvf spark-2.2.0-bin-hadoop2.7.tgz
+ls
+rm spark-2.2.0-bin-hadoop2.7.tgz
+sudo mv spark-2.2.0-bin-hadoop2.7 /usr/local
+cd /usr/local
+ls
+rm -rd spark-2.3.0-bin-hadoop2.7
+sudo rm -rf spark-2.3.0-bin-hadoop2.7
+sudo rm spark
+sudo ln -s spark-2.2.0-bin-hadoop2.7 spark
+l
+cd
+pyspark
+rm Untitled.ipynb
+ld
+ls
+cd Repos
+ls
+cd csvkit
+ls
+cd
+cat.gitconfig
+git config --global
+git config --global user.name "Ramiro José Berraz"
+git config -- global user.email ramiroberraz@gmail.com
+git config --global user.email ramiroberraz@gmail.com
+cd
+ cd R
+ cd Repos
+cd
+cd Repos
+git clone https://github.com/rjb90/Data-Science.git
+ls
+ cd Data-Science
+cat README.md
+gedit README.md
+git status
+git add README.md
+git status
+git commit
+git commit -m "Hola, este es mi primer mensaje en GitHub"
+git push
+git log
+git status
+git pull
+git log
+gedit
+gedit README.md
+git status
+git add README.md
+git commit -m "Ole mi cambio"
+git push
+git pull
+ls
+git status
+gedit README.md
+git status
+git add
+git add README.md
+git commit
+git push
+whoami
+echo
+echo Welcome to master
+echo $HOME
+echo @word
+echo "world \
+is mine"
+HOME2=43
+echo $Home2
+echo $HOME2
+echo "world  \ \
+is mine"
+cat /etc/os-release
+cd Data/shell
+cd
+bush
+echo $0
+bash
+exit
+history
+cd Data/shell
+cat Text_example.txt
+cat ./Text_example.txt
+cd ..
+cd shell
+cd .
+cd ../shell
+cat ./
+cat ./Text_example.txt
+..
+exit
+cd shell
+cd Data/shell
+pwd
+cd
+cd Data/shell
+cd .
+cd
+cd.
+cd .config
+cd
+ls
+exit
+cd Pictures
+ls
+ls -l
+cd R
+cd ../R
+ls
+cd ..
+ls -l -a
+ls -S
+mkdir one
+ls one
+ls -l one
+cd one
+mkdir two/three/four
+mkdir -p teo/three/four
+cd teo/three/four
+mkdir five six seven
+ls
+ls .l
+ls -l
+cd
+ls .lt
+ls -lt
+cd -
+ls
+cp file file.txt
+ls
+cp file file.txt
+touch file
+cp file file.txt
+ls
+cp five five_copy
+cp -r five five_copy
+ls
+cp file file.txt six
+ls six
+ls
+mv file file_moved
+ls
+ rm six
+rm -r six
+rm -r file.txt
+rm -rf one
+exit
+mkdir first_dir
+mkdir -p text_file.txt
+ls
+cd first_dir
+mkdir -p text_file.txt
+chmod u+x,g+w text_file.txt
+ls -l
+mkdir -p sub1 sub2 text_file
+cp -r text_file.txt sub1
+ls-1
+ls -l
+mv text_file.txt sub2/text_file.txt.2
+ls -l sub2
+cp sub1 sub3
+cp -r sub1 sub3
+ls -l sub3
+cd
+ls
+mas bash
+man bash
+cd Data/shell
+ls
+less finn
+q
+less Finn.txt
+less -N Finn.txt
+sudo apt-get install tree
+q
+esc
+git status
+type
+type ls
+alias gs="git status"
+gs
+cd
+gedit .zshrc
+which python
+whereis python
+history
+cd Data/us_dot/otp
+ls
+ls - lS | head -4
+ls -lS
+history
+ls -ls < three_largest_file.txt
+touch three_largest_file.txt
+ls -ls < three_largest_file.txt
+la -lS | head -4
+ls -lS | gead -4 | tail -n 3 > three_largest_files
+cat .history > 2018-10-20.txt
+whoami
+echo Welcome to master
+echo Welcome \to master
+ echo Welcome\to master
+Welcome\to master
+echo Welcome; echo to; echo master
+cat
+whoami
+echo Welcome to master
+echo Welcome; echo to; echo masetr
+Welcome \to master
+echo Welcome \to master
+cd Data/shell
+history
+..
+.
+..
+whoami
+.
+..
+cd../
+ls
+..cd
+.. cd
+ ..
+.
+esc
+lscd
+ls cd
+.
+..
+.cd
+cd.
+..
+.. cd shell
+.cd
+cd Data/shell
+.
+..
+.
+cat ./Text_example.txt
+esc
+.
+ ..
+cat ../
+ ../dsc
+~
+cd DAta/shell
+cd Data/shell
+.
+..
+~
+cd
+cd-
+cd_
+cd -
+cd
+ls
+ls -1
+ls-s
+ls -s
+ls _l
+ls-l
+ls -l
+-s
+chmod u+x hello_world.txt
+mkdir one
+cd Data/shell
+mkdir one
+chmod u+x hello_world.txt
+mkdir -p hello_world.txt
+u+x hello_world .txt
+u hello_world.txt
+touch file
+cp-r
+cp -r
+chmod u+x hello_world.txt
+less + hello
+less hello
+mv hello_wolrd.txt holis_world.txt
+touch hello_world.txt
+mv hello_world.txt holis_world.txt
+holis_world.txt
+cd holis_world.txt/.
+..
+.
+..
+cd shell
+cd Data/shell
+~
+cd
+whoami
+whereami
+g
+cd Data/shell
+../
+~
+cdq Data/shell
+cd Data/shell
+mkdir first_dir
+cd first_dir
+touch text_file.txt
+g+x, o+w text_file.txt
+chmod g+x, o+w text_file.txt
+ls -l
+chmod g+x text_file.txt
+ls -l
+mkdir -p sub1/sub2/sub3
+mkdir -p text_file.txt
+cd sub1
+cp first_dir text_file.txt sub1
+cd first_dir
+./
+../
+./
+cp text_file.txt sub1
+~
+cd Data/shell
+mdkir first_dir
+mkdir first_dir
+opendatatravel % ls
+opendatatravel
+cd Data/opendatatravel
+cd Data/opentraveldata
+sort -t "^" -k 6r optd_aircraft.csv | head -5
+cd
+find -mindepth 10
+find . -type f-size +10M | wc
+find -type f -size +10M | wc
+Data/opentraveldata
+cd Data/opentraveldata
+sort -t "^" -k optd
+seq 10 | paste -s
+seq 10
+cd Data/shell
+paste ./Text_example.txt -/Text_example.txt
+paste ./Text_example.txt ./Text_example.txt
+seq 1 10 > one.txt
+seq 11 20 > two.txt 
+paste ./one.txt ./two.txt
+paste < one.txt
+paste
+seq 10 | paste -s
+seq 10
+seq 1 10 > one.txt
+se1 11 20 > two.txt
+seq 11 20 > two.txt
+passte ./one.txt ./two.txt
+paste ./one.txt ./two-txt
+paste ./one.txt ./two.txt
+cat ../opentraveldata/optd_aircraft.csv | tr
+echo "master data science" | tr a A
+cd Data/opentraveldata
+seq 5 5 20 
+seq 5 5 20 | grep "[1-5] {2}"
+seq 5 5 20 |-E  grep "[1-5] {2}"
+seq 5 5 20 | grep -E  "[1-5] {2}"
+seq 5 5 20 | grep -E"[1-5] {2}"
+seq 5 5 20 | grep -E "[1-5] {2}"
+seq 5 5 20 | grep -E "[1-5]{2}"
+optd_aircraft.csv | grep -E "[7-""-7]{3}"
+optd_aircraft.csv | grep -E "[7-7]{2}"
+grep -E "[7-7]{2}" ./optd_aircraft.csv
+grep -E "[7x7]{2}" ./optd_aircraft.csv
+grep -E -i "aero" ./optd_aircraft.csv
+grep -E "[7--7]{2}" ./optd_aircraft.csv
+grep -E "[7-7]{2}" ./optd_aircraft.csv
+grep -E -A800 -B700 "[7-7]{2}" ./optd_aircraft.csv
+grep -E "[7-7]{2}" ./optd_aircraft.csv
+grep -E "7[0-9]7{2}" ./optd_aircraft.csv
+grep -E "7[0-9]7" ./optd_aircraft.csv
+echo Sunday | sed ssdaysnights
+echo Sunday | sed s/day/night/
+seq 10 15 | sed '3d'
+sed "line""\n" Text_example.txt
+sed slines"\n"s Text_example.txt
+sed s/line/\n/ Text_example.txt
+Data/opentraveldata
+cd Data/opentraveldata
+cd ../ shell
+cd ../shell
+sed s/line/\n/ Text_example.txt
+sed s/line/\n/./ Text_example.txt
+sed s/line/\n/ ./Text_example.txt
+sed ' s/line/\\n/g' ./Text_example.txt
+gedit
+gedit &
+paste <(seq 46) <(head -1 ../opentraveldata/optd_por_public.csv | tr "^" "\n")
+head -1 ../opentraveldata/optd_por_public.csv | tr "^" "\n" | wc
+cd ../opentraveldata
+ll
+mv ../shell/csv_column_numbers.sh ./ [2]
+gedit
+gedit &
+mv ../shell/csv_column_numbers.sh ./ [2]
+bash ./csv_column_numbers.sh
+./csv_column_numbers.sh
+chmod 777 ./csv_column_numbers.sh
+./csv_column_numbers.sh
+which bash
+./csv_column_numbers.sh
+HA=32
+echo $HA
+echo $0
+./csv_column_numbers.sh
+./csv_column_numbers.sh optd_aircraft.csv "^"
+head -1 ../opentraveldata/optd_por_public.csv | tr "^" "\n" | wc
+NUMBER_COL=head -1 ../opentraveldata/optd_por_public.csv | tr "^" "\n" | wc
+NUMBER_COL=(head -1 ../opentraveldata/optd_por_public.csv | tr "^" "\n" | wc)
+NUMBER_COL=(head -1 ../opentraveldata/optd_por_public.csv | tr "^" "\n" | wc -l)
+NUMBER_COL=(head -1 ../optd_por_public.csv | tr "^" "\n" | wc -l)
+echo $NUMBER_COL
+NUMBER_COL=(head -1 ../opentraveldata/optd_por_public.csv | tr "^" "\n" | wc -l)
+echo $NUMBER_COL
+NUMBER_COL=$(head -1 ../opentraveldata/optd_por_public.csv | tr "^" "\n" | wc -l)
+echo $NUMBER_COL
+./csv_column_numbers.sh
+./csv_column_numbers.sh ./optd_aircraft.csv "^"
+cd
+mkdir my_scripts 
+mv ./Data/opentraveldata/csv_column_numbers.sh my_scripts
+ls my_scripts
+cd my_scripts
+pwd
+cd
+gedit .zshrc
+csv_column_numbers.sh ./optd_aircraft.csv "^"
+cd Data/opentraveldata
+csv_column_numbers.sh ./optd_aircraft.csv
+csv_column_numbers.sh ./optd_aircraft.csv "^"
+cd Repos
+cd csvkit
+git remote -v
+ls
+head setup.py
+cd
+cd DAta/opentraveldata
+Data/opentraveldata
+cd Data/opentraveldata
+csvlook -d "^" optd_aircraft.csv
+csvlook -d "^" optd_aircraft.csv | less
+csvlook -d "^" optd_aircraft.csv | less -S
+csvl -d "^" optd_aircraft.csv | less -S
+csvlook -ld "^" optd_aircraft.csv | less -S
+csvlook -lHd "^" optd_aircraft.csv | less -S
+csvstat -d "^" optd_aircraft.csv
+csvstat -d "^" -c 1-3,4 optd_aircraft.csv
+csvstat -d "^" -c manufacturer optd_aircraft.csv
+csvstat -d "^" -c 1-3,6  optd_aircraft.csv
+csvstat -d "^" -c 1-3,6  optd_aircraft.csv | less
+csvcut -n -d "^" optd_aircraft.csv
+csvcut -d "^" -c 2 optd_aircraft.csv | less
+csvcut -d "^" -c 2-4  optd_aircraft.csv | less
+csvcut -d "^" -c 2-4  optd_aircraft.csv | csvlook | less -S
+csvcut -h  optd_aircraft.csv | csvlook | less -S
+csvgrep -d "^" -m 380 optd_aircraft.csv
+csvgrep -d "^" -m c iata_code 380 optd_aircraft.csv
+csvgrep -d "^" -m 380 -c iata_code 380 optd_aircraft.csv
+csvgrep -d "^" -m 380 -c 1 iata_code 380 optd_aircraft.csv
+csvgrep -d "^" -m 380 -c 1 iata_code optd_aircraft.csv
+csvgrep -d "^" -m 380 -c iata_code optd_aircraft.csv
+csvgrep -d "^" -c 1,2 -r "^A"  optd_aircraft.csv
+csvgrep -d "^" -c 1,2 -r "^A"  optd_aircraft.csv | wc
+csvgrep -d "^"-a  -c 1,2 -r "^A"  optd_aircraft.csv | wc
+csvgrep -d "^"-a  -c 1,2 -r "^A"  optd_aircraft.csv
+csvsort -n optd_aircraft.csv
+csvsort -d "^" -n optd_aircraft.csv
+csvsort -d "^" -c nb_engines optd_aircraft.csv| csvlook | less -S
+csvsort -d "^" -c nb_engines -r optd_aircraft.csv| csvlook | less -S
+cstat -d "^" -c nb_engines  optd_aircraft.csv| csvlook | less -S
+csvstat -d "^" -c nb_engines  optd_aircraft.csv| csvlook | less -S
+csvstat -d "^" -c nb_engines  optd_aircraft.csv
+csvformat -d "^" -d "," optd_aircraft.csv
+csvformat -d "^" -d "," optd_aircraft.csv | less
+cd Data/opentraveldata
+csvsql -d "^" optd_aircraft.csv | less
+csvstat -d "^" -m manufactures optd_aircraft.csv | wc
+csvstat -d "^" -c manufactures optd_aircraft.csv | wc
+csvstat -d "^" -c manufacturer optd_aircraft.csv
+csvstat -d "^" -c manufacturer optd_aircraft.csv | wc
+csvcut -d "^" -c manufacturer optd_aircraft.csv | wc
+csvlook -ld "^" head -5 optd_aircraft.csv
+csvlook -ld "^" head optd_aircraft.csv
+csvlook -ld "^" optd_aircraft.csv | less head -5
+csvlook -ld "^" optd_aircraft.csv | less -5
+cd
+psql -l
+psql -d postgres
+mkdir sql_class
+cd sql_class
+wget https://\
+raw.githubusercontent.com/masterdatascience/postgres/mas\
+ter/my_fb_friends.csv
+wget https://raw.githubusercontent.com/masterdatascience/postgres/master/my_fb_friends.csv
+wget https://raw.githubusercontent.com/masterdatascience/postgres/master/my_ldin_contacts.csv
+cat my_fb_friends.csv
+cd
+cd sql_class
+ls
+cat my_ldin_contacts.csv
+csvsql -d "^" my_ldin_contacts.csv
+mv my_ldin_contacts.csv linkedin.csv
+ls
+csvsql -d "^" linkedin.csv
+csvsql -d "^" -i postgresql linkedin.csv
+echo "drop table if exists linkedin;" > psql_create_linkedin.sl
+cat ./psql_create_linkedin.sl
+gedit ./psql_create_linkedin.sl
+gedit ./psql_create_linkedin.sl &
+cat psql_create_linkedin.sl
+psql -d networking -f ./psql_create_linkeind.sl
+psql -d networking -f ./psql_create_linkedin.sl
+whoami
+escho Welcome to Master
+whoami
+echo Welcome to Master
+echo "World is mine"
+echo "Wolrd\ is mine"
+echo "World \
+echo "Wolrd\ is mine"\
+"
+echo "World\\
+is mine"
+echo "World \ \
+" is mine too"\
+"
+whoami
+echo Welcome to Master
+echo "World is mine"
+echo "World\\
+ is mine"
+echo "World"\\
+" is mine too"
+cat Text_example.txt
+cd Data/shell
+cat Text_example.txt
+cat -n Text_example.txt
+cd
+cat Data/shell/Text_example.txt
+cd Data/opentraveldata
+cat ../shell/Text_example.txt
+cat /home/dsc/Data/shell/Text_example.txt
+pwd
+echo $PWD
+echo \$PWD
+ls
+ls -1
+ls -s
+ls -1 -s
+ls -1s
+ls -s1
+ls -|H
+ls -lH
+ls -a
+ls -l
+ls -la
+ls -l .zshrc
+ls -S
+ls -lSr
+ls -lt
+ls -ltX
+chmod u+r,g+xw file_name
+chmod u+r,g+xw Text_example.txt
+chmod u+r,g+xw 
+mkdir one
+cd
+cat
+whoami
+echo Welcome to Master
+echo "World is mine"
+echo "World\\
+is mine"
+echo "World"\\
+" is mine"
+cd Data/shell
+cat Text_example.txt
+cat -n Text_example.txt
+cd
+cat Data/shell/Text_example.txt
+cat ../shell/Text_example.txt
+cd Data/opentraveldata
+cat ../shell/Text_example.txt
+cat/home/dsc/Data/shell/Text_example.txt
+cat /home/dsc/Data/shell/Text_example.txt
+pwd
+cd
+pwd
+echo $PWD
+echo \$PWD
+ls
+cd Data/shell
+ls
+ls -1
+ls -s
+ls -1 -s
+ls -1s
+ls -s1
+ls -lH
+ls -a
+ls -l
+ls -la
+ls -S
+ls -lSr
+ls -lt
+ls -ltX
+cd Repos
+git config
+.history
+.history cat .history > Linx-basic-comands-1.git
+cd
+cat .history > Linux-basic-comands-1.git
+cd mkdir Linux-commands 
+mkdir linuxcomands
+cd linuxcomands
+touch Linux-basic-comands-1.git
+cat .history > Linux-basic-comands-1.git
+history > Linux-basic-comands-1.git
+whomai
+git init
+git add.
+git add
+git add history
+
+
+git checkout
+cd
+cd Data/shell/holis_world.txt
+asas
+git add
+git add.
+git add .
+echo "Hello World"
+git add
+git add.
+git --help
+exit
+exit
+git status
+git push
+git push linuxcomands
+esc
+exit
+cd
+git status
+git add
+cd first_dir/sub1/text_file.txt
+echo "Hello world"
+git add.
+git add
+git add. echo "Hello World"
+git commit
+git pull
+--
+git esc
+git --help
+esc
+exit
+exit git
+cd
+c
+dc
+q
+qq
+pwd
+CD
+cd
+pwd
+whoami
+su dsc
+git log
+git commit
+ls -la
+rm -r .git
+cd
+who am i
+whoami
+echo "Hello"
+git init
+rm -r .git
+whoami
+echo Welcome to Master
+echo "World\\
+ is mine"
+echo "World"\\
+" is mine"
+cd Data/shell
+cat Text_example.txt
+cat -n Text_example.txt
+cd
+cat Data/shell/Text_example.txt
+cd Data/opentraveldata
+cat ../shell/Text_example.txt
+cat /home/dsc/Data/shell/Text_example.txt
+cd
+pwd
+echo $PWD
+echo \$PWD
+ls
+ls -1
+ls -s
+ls -1-s
+ls -1 -s
+ls -1s
+ls -s1
+ls -lH
+ls -a
+ls -l
+ls -la
+ls -S
+ls -lSr
+ls -lt
+ls -ltX
+.history
+cat .history > Linux-basic-comands.git
